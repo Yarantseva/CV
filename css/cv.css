@@ -310,4 +310,18 @@ ul {
 	.e-mail {
 		max-width: 100%;
 	}
+	.name {
+		font-size: 20px;
+		letter-spacing: 9px;
+		color: #f9b238;
+		font-weight: 500;
+		line-height: 2;
+	}
+	p,
+	li,
+	label .courses {
+		font-size: 14px;
+		letter-spacing: 1.5px;
+		line-height: 1.5;
+	}
 }
