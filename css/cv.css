@@ -58,7 +58,7 @@ h3 {
 .full_screen_text {
 	font-family: b52;
 	text-align: center;
-	font-size: 20px;
+	font-size: 22px;
 	letter-spacing: 18px;
 	text-transform: uppercase;
 }
@@ -75,7 +75,7 @@ h3 {
 .powered_by {
 	font-family: b52;
 	text-align: center;
-	font-size: 14px;
+	font-size: 16px;
 	letter-spacing: 9px;
 	color: #0c1926;
 }
@@ -328,7 +328,7 @@ ul {
 	p,
 	li,
 	label .courses {
-		font-size: 14px;
+		font-size: 15px;
 		letter-spacing: 1.5px;
 		line-height: 1.5;
 	}
