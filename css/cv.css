@@ -298,6 +298,14 @@ ul {
 		padding-left: 0px;
 	}
 }
+@media (max-width: 876px) {
+	.photo {
+		display: none;
+	}
+	.title {
+		margin-top: 15px;
+	}
+}
 @media (max-width: 600px) {
 	.contacts_footer {
 		display: flex;
