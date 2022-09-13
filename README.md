@@ -1,1 +1,1 @@
-https://yarantseva.github.io/cv/
+https://yarantseva.github.io/cv1/
